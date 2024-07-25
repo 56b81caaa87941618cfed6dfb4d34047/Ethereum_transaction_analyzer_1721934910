@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be collapsible or fixed on the screen?\", \"option1\": \"Collapsible sidebar that can be opened or closed\", \"option2\": \"Fixed sidebar that is always visible on the screen\"}, {\"question 2\": \"Should the sidebar navigation be positioned on the left or right side of the screen?\", \"option1\": \"Left side of the screen\", \"option2\": \"Right side of the screen\"}], \"input_token_count\": 266, \"output_token_count\": 103, \"time_taken\": \"0:00:02.919488\"}",
+        "message_id": "guest25072024191557",
+        "timestamp": "25072024191601",
+        "component_file_name": "purple_header_component_1721934912",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a sidebar with navigation links.",
         "message_id": "guest25072024191557",
